@@ -28,3 +28,9 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 - 📫 How to reach me: <a href="https://www.freelancer.com/u/csehabiburr183"> Contact With Me </a>
 - ⚡ Fun fact: I'm Student Of Computer Science and Engineering.
 
+
+# Languages:
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
+</p>
