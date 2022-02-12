@@ -50,7 +50,7 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
 <a href="https://github.com/csehabiburr183">
   <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csehabiburr183&theme=buefy&layout=compact" align="left" />
-  <img height="200em" width="52%" src="https://github-readme-stats.vercel.app/api?username=csehabiburr183&theme=buefy&show_icons=true" align="right"/>
+  <img height="200em" width="51%" src="https://github-readme-stats.vercel.app/api?username=csehabiburr183&theme=buefy&show_icons=true" align="right"/>
 </a>
 
 <br/>
