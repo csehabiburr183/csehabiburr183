@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Myself Habib a <a href="https://www.freelancer.com/u/csehabiburr183"> Freelance </a> Web Developer
 
 
 <p align="center">
@@ -7,9 +7,7 @@
 
 # About Me
 
-Hi folks 👋👋
-
-I'm Habib, I'm a Freelance Web Developer by Profession & Passion!
+I'm a Freelance Web Developer by Profession & Passion!
 
 I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
