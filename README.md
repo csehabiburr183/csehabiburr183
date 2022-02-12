@@ -21,12 +21,12 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
 <img align="right" alt="GIF" src="./Habib/adnanhabib.png" width="360" height="auto" />
 
-- 🔭 I’m currently working on freelancer.com as a web developer.
-- 🌱 I’m currently learning machine learning and iot.
-- 👯 I’m looking to collaborate on any web related project.
-- 💬 Ask me about any freelance work.
-- 📫 How to reach me: <a href="https://www.freelancer.com/u/csehabiburr183"> Contact With Me </a>
-- ⚡ Fun fact: I'm Student Of Computer Science and Engineering.
+🔭 I’m currently working on freelancer.com as a web developer.
+🌱 I’m currently learning machine learning and iot.
+👯 I’m looking to collaborate on any web related project.
+💬 Ask me about any freelance work.
+📫 How to reach me: <a href="https://www.freelancer.com/u/csehabiburr183"> Contact With Me </a>
+⚡ Fun fact: I'm Student Of Computer Science and Engineering.
 
 
 # Languages & Technology Stack:
