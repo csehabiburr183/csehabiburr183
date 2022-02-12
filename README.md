@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="./Habib/Adnan-Habib.png" width="420px" alt="Habib" />
+    <img src="./Habib/Adnan-Habib.png" width="" alt="Habib" />
 </p>
 
 # About Me
