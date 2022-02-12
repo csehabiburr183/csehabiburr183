@@ -16,9 +16,31 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 [<img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/c/adnanhabib)
 
 <h3> <strong> You Can Directly Hire Me with Lifetime $0 Fee </strong> </h3> <hr>
+[<img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/c/adnanhabib)
 [<img src="./Habib/hireme.jpg" />](https://www.freelancer.com/hireme/csehabiburr183)
 
 <img align="right" alt="GIF" src="./Habib/adnanhabib.png" width="360" height="auto" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **csehabiburr183/csehabiburr183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
