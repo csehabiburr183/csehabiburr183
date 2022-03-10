@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/c/adnanhabib">
 <p align="center">
-    <img src="./Habib/Adnan-Habib.png" width="" alt="Habib" />
+    <img src="./Habib/Adnan-Habib.jpg" width="" alt="Habib" />
 </p>
 </a>
 
